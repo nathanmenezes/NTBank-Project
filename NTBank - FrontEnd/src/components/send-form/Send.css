@@ -1,0 +1,33 @@
+.send{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.send span{
+    color: #C79E4F;
+    cursor: pointer;
+}
+
+.send p{
+    color: rgba(255, 255, 255, 0.51);
+    font-size: 17px;
+}
+
+.send button{
+    background-color: #C79E4F;
+    color: #303030;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 30px;
+    width: 220px;
+    height: 50px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+.send button:active{
+    transform: scale(.95);
+}

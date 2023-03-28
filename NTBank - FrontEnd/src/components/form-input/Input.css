@@ -1,0 +1,21 @@
+.input input{
+    width: 400px;
+    height: 45.06px;
+    background: #303030;
+    border: 2px solid rgba(255, 255, 255, 0.51);
+    border-radius: 10px;
+}
+
+.input p{
+    font-size: 15px;
+    line-height: 24px;
+    color: rgba(255, 255, 255, 0.51);
+}
+
+.input input{
+    color: rgba(255, 255, 255, 0.51);
+    font-size: 20px;
+    padding: 0px 0px 0px 10px;
+    outline: none;
+}
+

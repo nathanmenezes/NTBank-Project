@@ -1,0 +1,12 @@
+.nav{
+    background: #C79E4F;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 1rem;
+}
+
+img{
+    cursor: pointer;
+}
